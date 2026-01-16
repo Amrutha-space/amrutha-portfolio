@@ -1,18 +1,38 @@
-# React + Vite
+# Amrutha A — Portfolio 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, responsive personal portfolio website built to showcase my skills, projects, and experience as a **Software Development Engineer (SDE) aspirant** with a focus on **Full Stack Development and AI**.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+👉 https://LIVE_LINK_HERE
+https://amrutha-portfolio-theta.vercel.app/
 
-## React Compiler
+## ✨ Features
 
-The React Compiler is enabled on this template. See [this documentation](https://react.dev/learn/react-compiler) for more information.
+* Modern Dark UI with responsive layout
+* Glassmorphism & animated sections
+* Project showcase with GitHub & Live links
+* Resume download
+* Working contact form
+* SEO-optimized structure
 
-Note: This will impact Vite dev & build performances.
+Feel free to connect with me for:
 
-## Expanding the ESLint configuration
+* SDE Intern roles
+* Entry-Level Software Engineer roles
+* Full Stack / AI opportunities
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 🚀 How to Run Locally
+
+```bash
+git clone https://github.com/Amrutha-space/amrutha-portfolio.git
+cd amrutha-portfolio
+npm install
+npm run dev
+```
+
+---
+
+⭐ If you like this portfolio, feel free to star the repo!
