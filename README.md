@@ -35,4 +35,4 @@ npm run dev
 
 ---
 
-⭐ If you like this portfolio, feel free to star the repo!
+⭐ If you like this portfolio, feel free to star the repo!!
