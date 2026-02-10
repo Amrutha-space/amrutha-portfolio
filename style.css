@@ -237,12 +237,6 @@ section:nth-child(7) { animation-delay: 0.8s; }
     border-radius: 4px;
 }
 
-.intro::before {
-    content: '$ ';
-    color: var(--terminal-green);
-    font-weight: 600;
-}
-
 .education {
     color: var(--text-secondary);
     font-size: 0.9rem;
